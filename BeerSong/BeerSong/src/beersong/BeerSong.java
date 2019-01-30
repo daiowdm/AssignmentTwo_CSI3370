@@ -16,7 +16,7 @@ public class BeerSong {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        Ninety_Nine_Bottles_of_Beer();
     }
     
     
